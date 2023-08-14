@@ -1,5 +1,5 @@
 # Learning Vue.js through Countdown Timer Component
-<img src="example.gif" />
+ <p align="center"><img src="example.gif" /></p>
 
 ## Table of Contents
 
